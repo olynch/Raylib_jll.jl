@@ -1,0 +1,9 @@
+[[Raylib]]
+arch = "x86_64"
+git-tree-sha1 = "ffd8e5145e44d87de146aaa2d11ad9e03d8f5bcf"
+libc = "glibc"
+os = "linux"
+
+    [[Raylib.download]]
+    sha256 = "5c16d46b3c828181a383ac4a04a98a0e5ce516302d6d90099e51e254bdd8aaa5"
+    url = "https://github.com/olynch/Raylib_jll.jl/releases/download/Raylib-v3.7.0+0/Raylib.v3.7.0.x86_64-linux-gnu.tar.gz"
